@@ -32,8 +32,8 @@
 |---------|-------------|------|
 | 🤖 [AI vs Human Text Classification](https://ai-vs-human-qqla.onrender.com/) | Web app that classifies whether a given text is written by AI or a human using **Flask + LGBM + Logistic Regression** | Flask, Scikit-learn, LIME, Render |
 | ⚖️ [Law Document Assistant](https://legal-doc-assistant.onrender.com/) | RAG-based legal chatbot with section-wise citations for **Indian Laws** | Flask, LangChain, HuggingFace, Qdrant, Groq |
-|🌾{Crop Prediction} Trained ML models with scikit-learn to predict optimal crops based on soil type, rainfall, and temperature data. Built and deployed an interactive Streamlit app for real-time predictions and visual insights supporting agricultural planning.	Python, Pandas, NumPy, Scikit-learn, Streamlit.
-|🚗{Number Plate Detection} Developed a real-time license plate recognition system using YOLO for vehicle detection and EasyOCR for text extraction. Enabled accurate number plate recognition for traffic monitoring and law enforcement use cases.	Python, YOLO, EasyOCR, OpenCV.
+|🌾{Crop Prediction} |Trained ML models with scikit-learn to predict optimal crops based on soil type, rainfall, and temperature data. Built and deployed an interactive Streamlit app for real-time predictions and visual insights supporting agricultural planning.|	|Python, Pandas, NumPy, Scikit-learn, Streamlit.|
+|🚗{Number Plate Detection} |Developed a real-time license plate recognition system using YOLO for vehicle detection and EasyOCR for text extraction.| Enabled accurate number plate recognition for traffic monitoring and law enforcement use cases.	|Python, YOLO, EasyOCR, OpenCV.|
 
 ---
 
