@@ -3,9 +3,9 @@
 <h3 align="center">Aspiring AI/ML Engineer | Generative AI | NLP | Computer Vision</h3>
 
 <p align="center">
-  <a href="mailto:rnkakran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aryan-kakran-x1006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/akakran22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:"anshulteotia8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/anshul-teotia-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anshulteo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## 🚀 About Me  
 🔹 Passionate about **AI, Python, Machine Learning, and Generative AI**  
 🔹 Experienced in **building intelligent chatbots, RAG systems, and ML pipelines**  
-🔹 Strong foundation in **Python, Flask, FastAPI, PyTorch, LangChain, HuggingFace**  
+🔹 Strong foundation in **Python, Flask, PyTorch, LangChain, HuggingFace**  
 🔹 Love solving problems with **Machine Learning, NLP, and Data Science**  
 
 ---
