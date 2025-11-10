@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,fastapi,js,html,css,mysql,git,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,mysql,git,opencv" />
 </p>
 
 ---
@@ -30,23 +30,18 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🩺 [Medical ChatBot Pro](https://medical-chatbot-pro.onrender.com/) | AI chatbot for answering health-related queries using **LLaMA-3 + Qdrant + Flask** | Flask, LangChain, Cohere, Qdrant, Groq |
 | 🤖 [AI vs Human Text Classification](https://ai-vs-human-qqla.onrender.com/) | Web app that classifies whether a given text is written by AI or a human using **Flask + LGBM + Logistic Regression** | Flask, Scikit-learn, LIME, Render |
-| 🩺 [Medical ChatBot](https://medical-chat-bot-mm65.onrender.com) | AI chatbot for answering health-related queries using **LLaMA-3 + FAISS + Flask** | Flask, LangChain, Sentence Transformers, FAISS, Groq |
-| ⚖️ [Legal Document Assistant](https://legal-doc-assistant.onrender.com/) | RAG-based legal chatbot with section-wise citations for **Indian Laws** | Flask, LangChain, HuggingFace, Qdrant, Groq |
-| 📑 [AI Research Assistant](https://ai-research-assistant-pro.onrender.com) | Multi-agent research assistant that generates **structured professional reports** | FastAPI, LangChain, LLaMA-3.3, Groq |
-| 📂 [Resume Classification     System](https://github.com/akakran22/Resume-Classification-System-Using-Machine-Learning) | ML model classifying resumes into job categories using **MiniLM embeddings + ML models** | XGBoost, RF, LR |
+| ⚖️ [Law Document Assistant](https://legal-doc-assistant.onrender.com/) | RAG-based legal chatbot with section-wise citations for **Indian Laws** | Flask, LangChain, HuggingFace, Qdrant, Groq |
+|🌾{Crop Prediction} Trained ML models with scikit-learn to predict optimal crops based on soil type, rainfall, and temperature data. Built and deployed an interactive Streamlit app for real-time predictions and visual insights supporting agricultural planning.	Python, Pandas, NumPy, Scikit-learn, Streamlit.
+|🚗{Number Plate Detection} Developed a real-time license plate recognition system using YOLO for vehicle detection and EasyOCR for text extraction. Enabled accurate number plate recognition for traffic monitoring and law enforcement use cases.	Python, YOLO, EasyOCR, OpenCV.
 
 ---
 
-## 🏆 Achievements  
-
-- 🥇 Dean's List Award (CGPA 9.0+)  
-- 🏅 1st Rank in Inter-college IT Quiz  
+## 🏆 Achievements   
 - 🎓 Certified in **Machine Learning, Python, GitHub, and CV/Video Processing**  
 
 ---
 
 ## 📬 Let's Connect!  
 
-💼 [LinkedIn](https://www.linkedin.com/in/aryan-kakran-x1006) • 🌐 [GitHub](https://github.com/akakran22) • ✉️ rnkakran@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/anshul-teotia-) • 🌐 [GitHub](https://github.com/anshulteo) • ✉️ anshulteotia8@gmail.com  
